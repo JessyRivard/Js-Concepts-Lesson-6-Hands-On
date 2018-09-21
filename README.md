@@ -1,2 +1,1 @@
-# Js-Concepts-Lesson-6-Hands-On
-Hands on project for lesson 6 in class FSWO101-3
+For your Lesson 6 Practice Hands-On, you will be practicing your new skills working with Bootstrap. 

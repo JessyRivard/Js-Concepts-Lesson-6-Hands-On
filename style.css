@@ -1,0 +1,36 @@
+body {
+    background-color: #D5FFED
+}
+.navbar {
+    padding-right: 20px;
+    font-family: 'Caveat Brush', cursive;
+    font-size: 1.6em;
+}
+.form-inline {
+    padding-top: 15px;
+}
+.glyphicon-search {
+    position: absolute;
+    font-size: .8em;
+    left: 200px;
+    top: 25px;
+}
+.searchbox {
+    padding-right: 25px;
+}
+.body {
+    margin-top: 85px;
+}
+.register {
+    max-width: 350px;
+}
+.menu-list {
+    background-color: white;
+}
+.body {
+    font-family: 'Caveat', cursive;
+    font-size: 1.5em;
+}
+.navbar-brand {
+    font-size: 2em;
+}
